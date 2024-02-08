@@ -35,36 +35,30 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 😄 Pronouns: `he`/`him`
-- 🔭 I’m currently working on: [discord.py-message-components](https://github.com/mccoderpy/discord.py-message-components) and [instatus.py](https://github.com/instatus-py/instatus.py)
+- 😄 Pronouns: `he`/`him`/`his`
+- 🔭 I’m currently working on: [Zephyr](https://github.com/load-dev/Zephyr) and [PythonicAPI](https://github.com/load-dev/PythonicAPI)
 
 - 📫 How to reach me: 
   
-  - Send me a Direct Message on [Discord](https://discord.com): [`mccuber04#2960`](https://discord.com/users/693088765333471284)
+  - Send me a Direct Message on [Discord](https://discord.com): [`load0`](https://discord.com/users/1031145629872832633)
 
     <center>
-      <a href='https://discord.gg/VAR8sutF'>
-        <img src="https://discord.c99.nl/widget/theme-1/693088765333471284.png" style='padding: 5px'>
+      <a href='https://discord.com/users/1031145629872832633'>
+        <img src="https://discord.c99.nl/widget/theme-1/1031145629872832633.png" style='padding: 5px'>
       </a>
     </center>
-  
-  - Send me a Direct Message on [Instagram](https://instagram.com): [`@mccoderpy`](https://instagram.com/mccoderpy)
-  - Send me a Direct Message on [Guilded](https://guilded.gg): [`mccoderpy`](https://guilded.gg/u/mccoder-py)
-
-### Spotify
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=w83sbk7kl09oxtiwkcaqvpqut&cover_image=true&theme=novatorem&bar_color=4e5eb1&bar_color_cover=false)](https://spotify-github-profile.vercel.app/api/view?uid=w83sbk7kl09oxtiwkcaqvpqut&redirect=true)
 
 ### 🏆 GitHub Profile Trophy:
 <center>
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img width=800 src="https://github-profile-trophy.vercel.app/?username=mccoderpy&column=8&theme=discord&no-frame=true&no-bg=true"/>
+    <img width=800 src="https://github-profile-trophy.vercel.app/?username=load-dev&column=8&theme=discord&no-frame=true&no-bg=true"/>
   </a>
 </center>
 
 
 ### 📊 GitHub Stats:
-![Mccoders Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mccoderpy&theme=monokai)
+![Load Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=load-dev&theme=monokai)
 
 <p align="center" >
-     <img src="https://komarev.com/ghpvc/?username=mccoderpy&style=flat" alt=mccoderpy>
+     <img src="https://komarev.com/ghpvc/?username=load-dev&style=flat" alt=mccoderpy>
 </p>
