@@ -9,7 +9,7 @@
     <img src="https://img.shields.io/badge/-Instagram-EC3B83?style=for-the-badge&logo=instagram&logoColor=white" alt="Send me a DM on Instagram">
   </a>
   <a href="https://twitter.com/load_dev0" target="_blank">
-    <img src="https://img.shields.io/badge/-Twitter-F5C400?style=for-the-badge&logo=twitter&logoColor=white" alt="Send me a DM on Twitter.">
+    <img src="https://img.shields.io/badge/-Twitter (X)-0D2C54?style=for-the-badge&logo=twitter&logoColor=white" alt="Send me a DM on Twitter.">
   </a>
 </p>
 
