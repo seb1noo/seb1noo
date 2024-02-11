@@ -11,6 +11,9 @@
   <a href="https://twitter.com/load_dev0" target="_blank">
     <img src="https://img.shields.io/badge/-Twitter (X)-0D2C54?style=for-the-badge&logo=twitter&logoColor=white" alt="Send me a DM on Twitter.">
   </a>
+  <a href="https://ko-fi.com/U7U8UD4WE" target="_blank">
+    <img src="https://ko-fi.com/img/githubbutton_sm.svg" alt="Support me with donation!">
+  </a>
 </p>
 
 - 😄 Pronouns: `he`/`him`/`his`
