@@ -41,5 +41,5 @@
 ![Load Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=load-dev&theme=monokai)
 
 <p align="center" >
-     <img src="https://komarev.com/ghpvc/?username=load-dev&style=flat" alt=mccoderpy>
+     <img src="https://komarev.com/ghpvc/?username=load-dev&color=blueviolet&abbreviated=true&style=plastic" alt=load>
 </p>
