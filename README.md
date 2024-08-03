@@ -5,7 +5,7 @@
   <a href="https://discord.com/users/1031145629872832633" target="_blank">
     <img src="https://img.shields.io/badge/-Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Send me a DM on Discord">
   </a>
-  <a href="https://www.instagram.com/loado0/" target="_blank">
+  <a href="https://www.instagram.com/seb1noo/" target="_blank">
     <img src="https://img.shields.io/badge/-Instagram-EC3B83?style=for-the-badge&logo=instagram&logoColor=white" alt="Send me a DM on Instagram">
   </a>
   <a href="https://twitter.com/load_dev0" target="_blank">
