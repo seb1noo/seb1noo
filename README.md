@@ -1,6 +1,10 @@
 ### 👋 Hi there, my name is LOAD
 #### Im pretty young programmer what makes fun projects for you guys.
 
+<a href="javascript:alert('hi')">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="@beelzebub2" height="30" width="40" />
+</a>
+
 <p align="center">
   <a href="https://discord.com/users/1031145629872832633" target="_blank">
     <img src="https://img.shields.io/badge/-Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Send me a DM on Discord">
