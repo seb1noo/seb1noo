@@ -29,4 +29,4 @@
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=load-dev" alt="load-dev" /></a> </p>
 
-<p align="center"> <a href="https://twitter.com/load_dev0" target="blank"><img src="https://img.shields.io/twitter/follow/load_dev0?logo=twitter&style=for-the-badge" alt="load_dev0" /></a> </p>
+<p align="center"> <a href="https://twitter.com/load_dev0" target="blank"><img src="https://img.shields.io/twitter/follow/load_dev0?logo=x&style=for-the-badge" alt="load_dev0" /></a> </p>
