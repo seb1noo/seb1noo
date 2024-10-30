@@ -1,5 +1,5 @@
 <div align="center">
-  <img height="200" src="https://raw.githubusercontent.com/load-dev/load-dev/refs/heads/main/DEV.png" style="border-radius: 25px" />
+  <img height="200" src="https://raw.githubusercontent.com/seb1noo/seb1noo/refs/heads/main/DEV.png" style="border-radius: 25px" />
 </div>
 
 ###
@@ -33,7 +33,7 @@
 <br clear="both">
 
 <div align="center">
-  <p align="center"> <img src="https://komarev.com/ghpvc/?username=load-dev&label=Profile%20Views&color=0011ff&style=flat" alt="load-dev" /> </p>
+  <p align="center"> <img src="https://komarev.com/ghpvc/?username=seb1noo&label=Profile%20Views&color=0011ff&style=flat" alt="load-dev" /> </p>
 </div>
 
 ###
@@ -163,9 +163,9 @@
 <br clear="both">
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=load-dev&hide_title=true&hide_rank=false&show_icons=true&include_all_commits=true&count_private=false&disable_animations=false&theme=radical&locale=en&hide_border=false&order=1" height="250" alt="stats graph" /> <br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=load-dev&locale=en&hide_title=true&layout=compact&card_width=320&langs_count=5&theme=radical&hide_border=false&order=2" height="150" alt="languages graph" /> <br>
-  <img src="https://streak-stats.demolab.com?user=load-dev&locale=en&mode=daily&theme=radical&hide_border=false&border_radius=5&date_format=j%20M%5B%20Y%5D&order=3" height="220" alt="streak graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=seb1noo&hide_title=true&hide_rank=false&show_icons=true&include_all_commits=true&count_private=false&disable_animations=false&theme=radical&locale=en&hide_border=false&order=1" height="250" alt="stats graph" /> <br>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=seb1noo&locale=en&hide_title=true&layout=compact&card_width=320&langs_count=5&theme=radical&hide_border=false&order=2" height="150" alt="languages graph" /> <br>
+  <img src="https://streak-stats.demolab.com?user=seb1noo&locale=en&mode=daily&theme=radical&hide_border=false&border_radius=5&date_format=j%20M%5B%20Y%5D&order=3" height="220" alt="streak graph"  />
 </div>
 
 ###
