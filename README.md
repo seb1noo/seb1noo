@@ -45,25 +45,12 @@
 ###
 
 <br clear="both">
-
-<h2 align="left">👩‍💻  About Me</h2>
-
-###
-
-<br clear="both">
-
+<details><summary><h2 align="left">👩‍💻  About Me</h2></summary>
 <p align="left">I'm LOAD from Slovakia<br><br>- 🔭 I’m Student<br>- 📚 I'm currently learning PC Building</p>
-
-###
-
-<br clear="both">
-
-<h2 align="left">🛠 Language and tools</h2>
-
-###
+</details>
 
 <br clear="both">
-
+<details><summary><h2 align="left">🛠 Language and tools</h2></summary>
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" height="40" alt="angularjs logo"  />
   <img width="12" />
@@ -153,19 +140,18 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
 </div>
-
-###
-
-<h2 align="left">🔥   My Stats :</h2>
+</details>
 
 ###
 
 <br clear="both">
 
+<details><summary><h2 align="left">🔥   My Stats :</h2></summary>
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=seb1noo&hide_title=true&hide_rank=false&show_icons=true&include_all_commits=true&count_private=false&disable_animations=false&theme=radical&locale=en&hide_border=false&order=1" height="250" alt="stats graph" /> <br>
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=seb1noo&locale=en&hide_title=true&layout=compact&card_width=320&langs_count=5&theme=radical&hide_border=false&order=2" height="150" alt="languages graph" /> <br>
   <img src="https://streak-stats.demolab.com?user=seb1noo&locale=en&mode=daily&theme=radical&hide_border=false&border_radius=5&date_format=j%20M%5B%20Y%5D&order=3" height="220" alt="streak graph"  />
 </div>
+</details>
 
 ###
