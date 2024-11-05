@@ -43,8 +43,6 @@
 <h1 align="center">Hi Everyone 👋</h1>
 
 ###
-
-<br clear="both">
 <details><summary><h2 align="left">👩‍💻  About Me</h2></summary>
 <p align="left">I'm LOAD from Slovakia<br><br>- 🔭 I’m Student<br>- 📚 I'm currently learning PC Building</p>
 </details>
