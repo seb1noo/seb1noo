@@ -33,7 +33,13 @@
 <br clear="both">
 
 <div align="center">
-  <p align="center"> <img src="https://komarev.com/ghpvc/?username=load-dev&label=Profile%20Views&color=0011ff&style=flat" alt="load-dev" /> </p>
+  <p align="center"> <img src="https://komarev.com/ghpvc/?username=load-dev&label=Profile%20Views&color=0011ff&style=flat" alt="seb1noo" /> </p>
+</div>
+
+<br clear="both">
+
+<div align="center">
+  <p align="center"><img src="https://wakatime.com/badge/user/e835ad17-6b5a-4e7a-b03b-f62b044debe1.svg" alt="Total time coded since Mar 29 2025" /></p>
 </div>
 
 ###
