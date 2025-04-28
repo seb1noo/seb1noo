@@ -17,9 +17,6 @@
   <a href="https://www.instagram.com/seb1noo" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="37" height="25" alt="instagram logo"  />
   </a>
-  <a href="https://paypal.me/loaddev" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/paypal/default.svg" width="37" height="25" alt="paypal logo"  />
-  </a>
   <a href="https://ko-fi.com/load0" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/ko-fi/default.svg" width="37" height="25" alt="ko-fi logo"  />
   </a>
