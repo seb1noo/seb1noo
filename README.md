@@ -36,7 +36,7 @@
 <br clear="both">
 
 <div align="center">
-  <p align="center"><img src="https://wakatime.com/badge/user/e835ad17-6b5a-4e7a-b03b-f62b044debe1.svg" alt="Total time coded since Mar 29 2025" /></p>
+  <a align="center" href="https://wakatime.com/@e835ad17-6b5a-4e7a-b03b-f62b044debe1"><img src="https://wakatime.com/badge/user/e835ad17-6b5a-4e7a-b03b-f62b044debe1.svg" alt="Total time coded since Mar 29 2025" /></a>
 </div>
 
 ###
