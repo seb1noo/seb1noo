@@ -11,10 +11,10 @@
   <a href="https://twitter.com/load_dev0" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="37" height="25" alt="twitter logo"  />
   </a>
-  <a href="https://discord.com/users/1031145629872832633" target="_blank">
+  <a href="https://discord.com/users/1409131936705806368" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="37" height="25" alt="discord logo"  />
   </a>
-  <a href="https://www.instagram.com/seb1noo" target="_blank">
+  <a href="https://www.instagram.com/sebo.uu" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="37" height="25" alt="instagram logo"  />
   </a>
   <a href="https://ko-fi.com/load0" target="_blank">
